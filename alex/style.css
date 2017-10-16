@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 10px;
+}
+
+/*body {*/
+/*    margin: 10px;*/
+/*    padding: 10px;*/
+/*}*/
+
+body {
+    font-size: 11pt;
+    font-family: '-apple-system','HelveticaNeue';
+    font-weight: lighter;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: 700;
+	margin: 0 0 10px 0;
+}
+.accordion__details {
+	padding: 10px 0;
+	margin: 0 0 10px 0;
+}
+p {
+	margin: 0 0 7px 0;
+}
+.p_margin {
+    margin: -5px 0;
+}
+
+b {
+    padding: 0;
+}
+
+ul {
+    margin-top: -10px;
+}
+
+ul li{
+    margin-left: 20px;
+    padding-top: 0;
+}
+.separator_line {
+    height: 1px;
+    background: #ccc;
+    padding:0;
+    margin: 0 10px 0 10px;
+}
+
+.table-classic {
+  border-collapse: collapse;
+  margin: 0 0 10px 0;
+  font-family: 'cotext', arial, helvetica, sans-serif;
+  table-layout: fixed;
+  width:100%;
+}
+.table-classic th {
+  background: #d6d8d9;
+  padding: 10px 2px;
+  text-align: center;
+  font-weight: 700;
+  vertical-align: middle;
+  border: 1px #d6d8d9 solid;
+}
+.table-classic td {
+  padding: 5px;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px #d6d8d9 dashed;
+  border-top: none;
+}
+.table-classic_align_right {
+  text-align: right;
+}
+.table-classic_align_center {
+  text-align: center;
+}
+.table-classic img {
+  display: block;
+  margin: 0 auto;
+  max-width: none;
+}
+
+.verySmallText {
+  font-size: 9px;
+  line-height: 13px;
+}
